@@ -1,0 +1,1 @@
+class Son(override val name : String, override val age : Int, override val isMom : Boolean): Parent
